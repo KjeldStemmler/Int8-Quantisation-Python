@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Int8-Quantisation", "Int8-Quantisation\Int8-Quantisation.pyproj", "{91663B86-5E31-43B4-B0F1-E61739FFF99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91663B86-5E31-43B4-B0F1-E61739FFF99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91663B86-5E31-43B4-B0F1-E61739FFF99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE85CBE-6739-49CC-9454-3C3322315433}
+	EndGlobalSection
+EndGlobal
